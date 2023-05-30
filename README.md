@@ -1,2 +1,2 @@
 OIBSIP1
-Digital Library mananagement project: this project is developed using java
+Digital Library Mananagement Project: this project is developed using java
